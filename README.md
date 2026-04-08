@@ -20,3 +20,4 @@ Konvo is a basic AI chat application that allows users to send and receive messa
 - AI integration
 - Chat history storage
 - Multi-language support
+- 
