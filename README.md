@@ -1,2 +1,1 @@
-# konvo-ai-chat-app
-“AI chat application (early version)”
+AI chat application with basic conversational interface and message handling
