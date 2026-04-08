@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Konvo Chat</title>
+</head>
+<body>
+
+<h2>Konvo Chat App</h2>
+
+<input type="text" id="msg" placeholder="Type message">
+<button onclick="send()">Send</button>
+
+<p id="output"></p>
+
+<script>
+function send() {
+  let msg = document.getElementById("msg").value;
+  document.getElementById("output").innerHTML += "<br>You: " + msg;
+}
+</script>
+
+</body>
+</html>
